@@ -49,19 +49,189 @@ The class is graded on a pass / fail basis for 6 units. Evaluation will be based
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and Overview | &nbsp; |
-| 2 | What are the Central Components of a Synapse? | &nbsp; |
-| 3 | Molecular Mechanisms of Synapse Formation and Identity | &nbsp; |
-| 4 | Canonical Microcircuit: Development and Organizing Principles | &nbsp; |
-| 5 | Molecular Basis of Synaptic Plasticity: Pre- and Postsynaptic Mechanisms | &nbsp; |
-| 6 | Structural Plasticity: How Does Activity and Experience Change Synaptic Structures? | &nbsp; |
-| 7 | Diversity of Synapses: Excitation & Inhibition | &nbsp; |
-| 8 | Synaptic Learning Rules: Time and Space | Written Assignment Due |
-| 9 | Correlates of Synaptic and Circuit Function with Behavior | &nbsp; |
-| 10 | Regulatory Networks of Neuropsychiatric Disorders | &nbsp; |
-| 11 | From Genes to Phenotypes: Animal Models of Human Diseases | &nbsp; |
-| 12 | Modeling and Manipulating Neurological Disorders: _In vivo and in vitro_ | &nbsp; |
-| 13 | Drug Discovery for Neuropsychiatric Disorders: A Visit to Pfizer | Field Trip to the [Drug Discovery Unit, Pfizer Inc., Cambridge, MA](http://www.pfizer.com/research/science_and_technology/rd_locations/ma_cambridge) |
-| 14 | Final Assignment and Closing Remarks | Oral Presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+What are the Central Components of a Synapse?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Mechanisms of Synapse Formation and Identity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Canonical Microcircuit: Development and Organizing Principles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Basis of Synaptic Plasticity: Pre- and Postsynaptic Mechanisms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Structural Plasticity: How Does Activity and Experience Change Synaptic Structures?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Diversity of Synapses: Excitation & Inhibition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Synaptic Learning Rules: Time and Space
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignment Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Correlates of Synaptic and Circuit Function with Behavior
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Regulatory Networks of Neuropsychiatric Disorders
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+From Genes to Phenotypes: Animal Models of Human Diseases
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Modeling and Manipulating Neurological Disorders: _In vivo and in vitro_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Drug Discovery for Neuropsychiatric Disorders: A Visit to Pfizer
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip to the [Drug Discovery Unit, Pfizer Inc., Cambridge, MA](http://www.pfizer.com/research/science_and_technology/rd_locations/ma_cambridge)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Final Assignment and Closing Remarks
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
